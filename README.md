@@ -78,3 +78,11 @@ HTTP- Status Code
 8. IP tables
 
 - https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
+
+9. Php-fpm and httpd
+
+- https://www.digitalocean.com/community/tutorials/how-to-configure-apache-http-with-mpm-event-and-php-fpm-on-ubuntu-18-04
+
+10. Basic linux commands
+
+- https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
