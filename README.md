@@ -86,3 +86,9 @@ HTTP- Status Code
 10. Basic linux commands
 
 - https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+
+- Cloud
+
+1. What is AWS?
+
+- https://www.techtarget.com/searchaws/definition/Amazon-Web-Services
