@@ -92,3 +92,7 @@ HTTP- Status Code
 1. What is AWS?
 
 - https://www.techtarget.com/searchaws/definition/Amazon-Web-Services
+
+2. S3
+
+- https://www.youtube.com/watch?v=e6w9LwZJFIA
